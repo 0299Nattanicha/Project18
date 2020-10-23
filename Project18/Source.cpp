@@ -26,6 +26,6 @@ int main()
 {
 	char input[1000];
 	scanf("%s", &input);
-	printf("Letters = %d", letters(input));
+	printf("AOM = %d", letters(input));
 	return 0;
 }
